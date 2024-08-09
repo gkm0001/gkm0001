@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaurav-Verma07.Gaurav-Verma07&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gkm0001.gkm0001&"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###About Me
 <br/>
-👨🏽‍💻 A passionate Full stack Developer.<br> 🎓I'm a 3rd year CSE student at IET Lucknow<br>🎨 Exploring Operating System Core<br>🌱 Currently learning Data Structures and Algorithms<br>
+👨🏽‍💻 A passionate Full stack Developer.<br> 🎓I'm a 4th year CSE student at IET Lucknow<br>🎨 Exploring Operating System Core<br>🌱 Currently learning Data Structures and Algorithms<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
